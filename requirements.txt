@@ -1,0 +1,6 @@
+typer==0.9.0
+rich==13.3.5
+wmi==1.5.1
+pyqrcode==1.2.1
+plotext==5.2.8
+pypng==0.20220715.0
